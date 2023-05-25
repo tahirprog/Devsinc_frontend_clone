@@ -8,4 +8,7 @@ h1{
   margain:2px;
   padding:2px;
 }
-
+p{
+  color:#fff;
+  backgroun-color:blue;
+}
