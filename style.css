@@ -3,3 +3,9 @@ body{
   display:flex;
   content:center;
 }
+h1{
+  text-align:center;
+  margain:2px;
+  padding:2px;
+}
+
